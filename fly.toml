@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for geepee on 2026-01-05T04:54:35Z
+# fly.toml app configuration file generated for geepee-e89uzg on 2026-01-05T05:06:29Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'geepee'
+app = 'geepee-e89uzg'
 primary_region = 'jnb'
 
 [build]
